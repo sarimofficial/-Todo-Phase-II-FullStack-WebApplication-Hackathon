@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp add:*)",
+      "Bash(git fetch:*)",
+      "Bash(findstr:*)",
+      "Bash(dir:*)",
+      "Bash(pwsh:*)",
+      "Bash(powershell.exe:*)",
+      "Bash(mkdir:*)",
+      "Bash(git checkout:*)",
+      "Skill(sp.tasks)",
+      "Bash(python -m venv:*)",
+      "Bash(npx create-next-app:*)",
+      "Bash(pip install:*)",
+      "Bash(alembic upgrade:*)",
+      "Bash(python -m alembic:*)",
+      "Bash(uvicorn:*)",
+      "Bash(python -m uvicorn:*)"
+    ]
+  }
+}
